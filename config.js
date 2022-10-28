@@ -37,6 +37,6 @@ var config = {
         cake_fadein: "蛋糕來了",
         light_candle: "點上蠟燭",
         wish_message: "寶貝生日快樂！",
-        story: "咳咳...",
+        story: "咳en...",
     }
 };
