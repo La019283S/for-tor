@@ -25,7 +25,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "以下是屬於你的生日祝福哦！": "./imgs/image2.jpeg",
+        "以下是屬於你的生日祝福哦！": "./imgs/image3.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -34,9 +34,9 @@ var config = {
         play: "。。。",
         bannar_coming: "放上彩帶",
         balloons_flying: "yeah!",
-        cake_fadein: "蛋糕來了",
+        cake_fadein: "蛋糕來了~",
         light_candle: "點上蠟燭",
-        wish_message: "寶貝生日快樂！",
-        story: "咳en...",
+        wish_message: "寶貝生日快樂！!",
+        story: "咳...",
     }
 };
